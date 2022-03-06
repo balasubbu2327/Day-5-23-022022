@@ -73,6 +73,13 @@
 })();
 
 
+
+
+
+
+
+
+
 // 3. Do the below programs in arrow functions
 // a. Print odd numbers in an array
 const oddNum = (arr)=>{
